@@ -19,11 +19,10 @@ A v1.0 é a primeira versão completa da tradução. Ela é recente e **não foi
 | **Texturas de Interface** | ✅ Traduzido | Menus, tela de duelo, títulos, tela de carregamento, atributos e modo extra do Inuyasha |
 | **Fonte** | ✅ Completa | Alfabeto latino com acentos e cedilha |
 | **Áudio / Dublagem** | ❌ Original | Vozes em japonês |
-| **Vídeos** | ❌ Original | Os 2 vídeos (abertura) continuam sem legenda |
 
 ### O que continua em japonês (de propósito ou por limitação)
 
-* Áudio e vozes, e os 2 vídeos de abertura.
+* Áudio e vozes.
 * Nomes dos golpes (kanji nas texturas de habilidade) e fachadas de lojas/cenário, mantidos como no original.
 * Os botões L1/R1/R2/R3 aparecem como letras no texto (o jogo japonês também os escreve assim); ○ □ △ X e a cruz direcional usam os ícones do jogo.
 * Algumas texturas isoladas ou textos muito raros podem ter escapado. Se achar algum, avise.
