@@ -4,6 +4,8 @@ Projeto de tradução independente para o jogo **Rurouni Kenshin: Enjou! Kyoto R
 
 O patch funciona em emulador (PCSX2) e em PlayStation 2 real via OPL. **Se for jogar no console, leia antes a seção "Problema conhecido" mais abaixo.**
 
+## 🐞 Link Discord para relatar bugs : https://discord.com/invite/mTuNMPw
+
 ---
 
 ## 📊 Status da Tradução — Versão 1.0
