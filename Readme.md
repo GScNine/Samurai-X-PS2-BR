@@ -162,6 +162,7 @@ Acompanhe o desenvolvimento do projeto, assista a testes de gameplay e ajude a r
 
 * 📺 **Canal de Projetos (GScNine):** [youtube.com/@gscnine](https://www.youtube.com/@gscnine) — *Vídeos de mods, tradução, eletrônica e hardware.*
 * 🎮 **Canal de Gameplay (GScNine Play):** [youtube.com/@gscnineplay](https://www.youtube.com/@gscnineplay) — *Gameplays e testes de jogos.*
+* 🤝 **Canal Parceiro (DarkFriends):** [youtube.com/@darkfriends2000](https://www.youtube.com/@darkfriends2000) — *Gameplays, principalmente jogos de luta*
 * 💬 **Discord:** Entre no nosso servidor [https://discord.com/invite/mTuNMPw](https://discord.com/invite/mTuNMPw) — *Relatar bugs e acompanhar novos projetos.*
 
 ---
