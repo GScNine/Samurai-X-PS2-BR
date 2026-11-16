@@ -162,12 +162,14 @@ Acompanhe o desenvolvimento do projeto, assista a testes de gameplay e ajude a r
 
 * 📺 **Canal de Projetos (GScNine):** [youtube.com/@gscnine](https://www.youtube.com/@gscnine) — *Vídeos de mods, tradução, eletrônica e hardware.*
 * 🎮 **Canal de Gameplay (GScNine Play):** [youtube.com/@gscnineplay](https://www.youtube.com/@gscnineplay) — *Gameplays e testes de jogos.*
-* 💬 **Discord:** Entre no nosso servidor (link disponível nos vídeos do canal) para reportar bugs e sugerir correções de texto!
+* 💬 **Discord:** Entre no nosso servidor [](https://discord.com/invite/mTuNMPw)
 
 ---
 
 ## ⚖️ Avisos Legais e Créditos
 
 * Os patches disponibilizados **não contêm nenhum arquivo protegido por direitos autorais** da ISO original além das partes alteradas (textos, fonte, texturas, tabela de itens e algumas instruções do executável). **Não distribua a ISO do jogo**; distribua somente os arquivos `.xdelta`.
-* Fonte dos glifos latinos: *Open Sans Bold* (SIL OFL 1.1).
+* Fonte dos glifos latinos: *Open Sans (Bold)*, criada por *Steve Matteson* e disponibilizada sob a licença [SIL Open Font License (OFL)](https://openfontlicense.org)
+* Fontes adicionais para texturas e efeitos:  *A Ai Love*, criada por [Wahyu Eka Prasetya (wepfont)](https://wepfont.com/) e disponibilizada gratuitamente.
+* * Fontes adicionais para texturas e efeitos : **Shodo** (`Shodo_font190430`), criada por **Yasuaki Yasumelt** e disponibilizada sob licença aberta.
 * Rurouni Kenshin e seus personagens pertencem aos respectivos detentores dos direitos. Projeto de fã, sem fins lucrativos.
