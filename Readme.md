@@ -152,7 +152,7 @@ Isso permite corrigir rápido nas próximas versões.
 ## 📝 Histórico
 
 * **v1.0** — Texturas "N Luta" (tela de duelo e de carregamento) e todas as texturas do modo extra do Inuyasha traduzidas. Texto da história revisado por completo (nomes, termos e tom padronizados; ~2.500 textos ajustados), nomes de itens abreviados para caber nas caixas, ajustes nas telas de atributos, habilidades e tutoriais, rótulo do duelo reposicionado. Patch de vídeos em 480p (experimental, validado no PS2).
-* **v57** — Build testada por mais de 3 horas em PS2 real (com 480p e widescreen), sem travamentos.
+* **v0.57** — Build testada por mais de 3 horas em PS2 real (com 480p e widescreen), sem travamentos.
 
 ---
 
